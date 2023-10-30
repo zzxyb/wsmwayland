@@ -1,5 +1,5 @@
 # wsmwayland
-provides a Qt-style Client library wrapper for the wlroots libraries,It is eazy  to convert to QML (Qt Meta-Object Language) Component, which allows developers to  easily use the wsm cleint protocol in qml.
+provides a Qt-style Client library wrapper for the Lychee Desktop (wsm wayland compositor.),It is eazy to convert to QML (Qt Meta-Object Language) Component, which allows developers to  easily use the wsm cleint protocol in qml.
 
 ## Release Signatures
 
